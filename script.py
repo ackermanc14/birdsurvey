@@ -6,6 +6,7 @@ Run analysis
 
 Save table
 
-Save small figure
+Save small figure_red line
 
 Make header bold
+
